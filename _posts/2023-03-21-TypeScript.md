@@ -1,3 +1,8 @@
+---
+title: "TypeScript learning path"
+date: 2023-03-21
+---
+
 # Goal
 
 Learn basics about TypeScript in order to bootstrap myself in GitHub Actions development. I will be focusing
