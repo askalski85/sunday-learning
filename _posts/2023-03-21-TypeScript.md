@@ -15,18 +15,11 @@ After course I would like:
 - create an Action interacting with GitHub API
 
 # Courses
-2h - Basics 2h
-https://www.linkedin.com/learning/typescript-essential-training-14687057/learning-typescript?autoplay=true&u=2074018
-
-2h - String properties and methods - Guided Project
-https://www.coursera.org/projects/typescript-string-properties-and-methods
-
-2h - Operators - Guided Project
-https://www.coursera.org/projects/typescript-operators
-
-2h - GitHub Actions Advanced
-https://www.linkedin.com/learning/advanced-github-actions/next-level-github-actions?autoplay=true&u=2074018
+- 2h [TypeScript Essential Training](https://www.linkedin.com/learning/typescript-essential-training-14687057/learning-typescript?autoplay=true&u=2074018)
+- 2h [String properties and methods - Guided Project](https://www.coursera.org/projects/typescript-string-properties-and-methods)
+- 2h [Operators - Guided Project](https://www.coursera.org/projects/typescript-operators)
+- 2h [GitHub Actions Advanced](https://www.linkedin.com/learning/advanced-github-actions/next-level-github-actions?autoplay=true&u=2074018)
 
 # Other Resources
-- https://www.classcentral.com/report/best-typescript-courses/#anchor-2
-- https://docs.github.com/en/actions/creating-actions
+- [Best TypeScript courses](https://www.classcentral.com/report/best-typescript-courses/#anchor-2)
+- [Writing GitHub Actions documentation](https://docs.github.com/en/actions/creating-actions)
