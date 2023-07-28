@@ -1,6 +1,6 @@
 ---
 title: "GitHub Actions learning path"
-date: 2023-07-28
+date: 2023-08-04
 ---
 
 # Goal
