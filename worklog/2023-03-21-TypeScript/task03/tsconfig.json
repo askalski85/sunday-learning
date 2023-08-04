@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs" : true,
+    "outDir": "build",
+    /*"target" : "ES6"*/ /* most browsers support */
+    "target": "esnext", /* just for type checking - emit code compatible with latest versions of javascript - strip out all typing annotations */
+    "noEmit": true    /* just for type checking, don't generate files */
+  },
+  "include": ["src/**/*"]
+}
